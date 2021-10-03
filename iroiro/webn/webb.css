@@ -1,0 +1,30 @@
+h1{
+    font-size: 48px;
+    line-height: 3;
+    background-color: rgb(222, 236, 18);
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(18, 221, 79);
+}
+
+p{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+li{
+    font-size: 24px;
+    line-height: 4;
+}
+
+img{
+    text-align: center;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(235, 133, 16);
+}
